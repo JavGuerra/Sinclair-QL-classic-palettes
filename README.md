@@ -5,7 +5,7 @@ Sinclair QL classic palettes for use in Gimp and Photoshop
 
 Here you can find the mode 8 and mode 4 color Sinclair QL palettes for Gimp (.gpl) and Photoshop (.act) programs.
 
-![ ](https://github.com/JavGuerra/Sinclair-QL-classic-palettes/blob/master/QL-classic-palettes.png "Paletas de color")
+![](https://github.com/JavGuerra/Sinclair-QL-classic-palettes/blob/master/QL-classic-palettes.png "Paletas de color")
 
 ## How to use
 
