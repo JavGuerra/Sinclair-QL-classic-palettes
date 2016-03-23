@@ -1,5 +1,5 @@
 # Sinclair QL classic palettes
-Sinclair QL classic palettes for use in Gimp and Photoshop
+Sinclair QL classic palettes for use in Gimp and Photoshop, by Javier Guerra.
 
 ## About it
 
