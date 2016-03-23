@@ -9,7 +9,7 @@ Here you can find the mode 8 and mode 4 color Sinclair QL palettes for Gimp (.gp
 
 ## How to use
 
-Import the palettes into your graphics programs and use it to draw or to convert images to the QL colors. Then, you can export the images in raw to convert it to native classic QL images.
+Import the palettes into your graphics program, and use it to draw or to convert images to the QL colors. Then, you can export the images in raw to convert it to native classic QL images.
 
 ## More info
 
