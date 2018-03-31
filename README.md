@@ -8,7 +8,7 @@ Recursos para el Sinclair QL
 
 Este repositorio contiene:
 
-* MGE-ROM: [ROM MG](MGE-ROM/mge.rom) en versión española
+* MGE-ROM: [ROM MG](MGE-ROM/) en versión española
 * classic palettes: [Paletas de color](classic-palettes/README.md) para Photoshop y Gimp
 
 Visita: [SinclairQL.es](http://sinclairql.es "Sinclair QL Recursos en Castellano") para más información y recursos en castellano.
