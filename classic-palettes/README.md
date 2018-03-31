@@ -21,4 +21,6 @@ Follow [this link](http://sinclairql.speccy.org/articulos/trucos/qlpal.htm "Expr
 
 ### Note
 
-this is a fool resource ;) 
+this is a fool resource ;)
+
+[Volver](../README.md)
